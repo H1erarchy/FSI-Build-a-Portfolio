@@ -1,0 +1,27 @@
+div {
+    background-color:#535453;
+    border-radius: 0.5px;
+    border-style: inset;
+    Text-align: Center;
+    color: #89aab8;
+    font: tahoma;
+    font-size: 20px;
+}
+      
+img { 
+    border: 8px solid #89aab8;
+    border-radius: 8px; 
+    padding: 0.5em;
+  }
+
+  h1 {background-color:rgb(231, 231, 231); 
+    border-inline-end:  50px;
+      color:#000406;
+    padding: 4px;}
+ 
+    h2 {text-decoration: underline;}
+ 
+    h3 {text-decoration: underline;}
+
+    crosshair { cursor:crosshair;}
+
